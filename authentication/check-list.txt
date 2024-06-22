@@ -1,0 +1,16 @@
+install Flask = # it's installed
+install sqlalchemy = # it's installed
+install Flask-sqlalchemy = # it's installed
+
+install cryptography = # it's intsalled
+install pymysql = # it's intsalled
+install mysql-connector-python # it's intsalled
+
+install dnspython # it's intsalled
+install argon2-cffi # it's intsalled
+pip install PyJWT # it's intsalled
+
+pip install python-dotenv # it's intsalled
+
+
+
